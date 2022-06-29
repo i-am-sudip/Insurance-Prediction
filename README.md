@@ -1,2 +1,1 @@
-# Machine-Learning-Projects
-it contains different projects
+# Machine-Learning-Project
