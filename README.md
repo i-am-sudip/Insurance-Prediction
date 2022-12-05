@@ -1,1 +1,1 @@
-# Machine-Learning-Project-Insurance-Data
+# Machine_Learning_Insurance_Data
